@@ -1,0 +1,48 @@
+Initialize engine version: 4.6.9f1 (44099fd26189)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 960M (ID=0x139b)
+    Vendor:   NVIDIA
+    VRAM:     2010 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\Program Learning\Unity\Projects\Laser Defender\Laser Defender_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\Program Learning\Unity\Projects\Laser Defender\Laser Defender_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\Program Learning\Unity\Projects\Laser Defender\Laser Defender_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\Program Learning\Unity\Projects\Laser Defender\Laser Defender_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\Program Learning\Unity\Projects\Laser Defender\Laser Defender_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\Program Learning\Unity\Projects\Laser Defender\Laser Defender_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+- Completed reload, in  0.137 seconds
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+Platform assembly: D:\Program Learning\Unity\Projects\Laser Defender\Laser Defender_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: D:\Program Learning\Unity\Projects\Laser Defender\Laser Defender_Data\Managed\System.dll (this message is harmless)
+New Level load: Game
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+UnloadTime: 4.513190 ms
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 225.
+Total: 1.122766 ms (FindLiveObjects: 0.019358 ms CreateObjectMapping: 0.006716 ms MarkObjects: 0.133135 ms  DeleteObjects: 0.003555 ms)
+
+MusicPlayer: loaded level 1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+New Level load: End Screen
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+UnloadTime: 0.911408 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 37 unused Assets to reduce memory usage. Loaded Objects now: 158.
+Total: 4.396252 ms (FindLiveObjects: 0.005925 ms CreateObjectMapping: 0.007111 ms MarkObjects: 0.103111 ms  DeleteObjects: 3.498670 ms)
+
+MusicPlayer: loaded level 2
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
